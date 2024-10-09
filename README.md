@@ -19,7 +19,6 @@
 * clone this repo:
 ```
 git clone https://github.com/Papyson/eeg-pipeline.git
-
 ```
 * cd into directory
 ```
@@ -28,8 +27,7 @@ cd dual-dualgan-main
 
 * download data sample:
 ```
-https://t.ly/xIaX4
-
+https://shorturl.at/7QPjC
 ```
 
 * train the model（Only verification can ignore this step）:
