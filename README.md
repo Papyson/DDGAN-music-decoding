@@ -30,6 +30,11 @@ cd dual-dualgan-main
 https://shorturl.at/7QPjC
 ```
 
+* download model checkpoint
+```
+https://www.kaggle.com/models/ayoobammi/dual_dual_gan_music_decoding
+```
+
 * train the model（Only verification can ignore this step）:
 
 ```
