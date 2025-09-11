@@ -25,10 +25,7 @@ git clone https://github.com/Papyson/eeg-pipeline.git
 cd dual-dualgan-main
 ```
 
-* download data sample:
-```
-https://shorturl.at/7QPjC
-```
+* download data sample here: [compressed format](https://huggingface.co/datasets/Papyson/Music_Stimulated_EEG/blob/main/EEG_Music_Stimulated_Dataset.zip)
 
 * download model checkpoint
 ```
